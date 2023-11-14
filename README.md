@@ -1,10 +1,10 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Muhammad Luthfi Halimi</h1>
+<h1 align="center">Hi 👋, I'm Fakhri Kurniawan</h1>
 <h3 align="center">Just a Novice programmer From Indonesia</h3>
 <img align="right" alt="Coding" width="400" src="https://media.baamboozle.com/uploads/images/1075/1649132969_77278_gif-url.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=luthfixcode&label=Profile%20views&color=0e75b6&style=flat" alt="luthfixcode" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=luthfixcode&label=Profile%20views&color=0e75b6&style=flat" alt="FakhriGanz" /> </p>
 
 <p align="left"> <a href="https://twitter.com/luthfihalimi" target="blank"><img src="https://img.shields.io/twitter/follow/luthfihalimi?logo=twitter&style=for-the-badge" alt="luthfihalimi" /></a> </p>
 
@@ -28,6 +28,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luthfixcode&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="luthfixcode" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luthfixcode&show_icons=true&locale=en&theme=tokyonight" alt="luthfixcode" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=FakhriGanz&show_icons=true&locale=en&theme=tokyonight" alt="FakhriGanz" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luthfixcode&&theme=tokyonight" alt="luthfixcode" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FakhriGanze&&theme=tokyonight" alt="FakhriGanz" /></p>
